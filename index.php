@@ -1,3 +1,3 @@
 <?php
 
-var_dump($_GET['q']);
+include_once __DIR__ . "/vendor/autoload.php";
