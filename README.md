@@ -7,3 +7,6 @@
 /auth/login (POST) -> form
 /dashboard -> admin
 /profile -> admin, user
+
+composer dump-autoload -o
+
