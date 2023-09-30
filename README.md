@@ -10,6 +10,7 @@
 
 composer dump-autoload -o
 
-npm install bootstrap
+composer require twbs/bootstrap:5.3.2
+composer require-dev laravel/pint:1.13.2
 
 
